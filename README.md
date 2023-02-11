@@ -54,4 +54,4 @@ __Запуск проекта__
 
 __Зависимости__
 
-В процессе выполнения заданий дополнительно могут потребоваться следующие библиотеки: numpy, pandas, sklearn, scipy, os, catboost, xgboost, lightgbm 
+В процессе выполнения заданий дополнительно могут потребоваться следующие библиотеки: numpy, pandas, sklearn, scipy, os, catboost, xgboost, lightgbm, keras, segmentation_models, sys
